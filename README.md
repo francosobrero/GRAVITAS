@@ -2,10 +2,6 @@
 ## A Matlab package to compute the gravity differences between stations of multiple gravity lines, and combine them into a network adjustment
 ### Authors: Demián D. Gómez, Kevin Ahlgren, Michael G. Bevis
 
-A Matlab package to compute the gravity differences between stations of multiple gravity lines, and combine them into a network adjustment
-
-Authors: Kevin Ahlgren, Demián D. Gómez, Michael G. Bevis, Franco S. Sobrero, Jacob Heck, Arturo Echalar, Dana J. Caccamise II, Eric Kendrick, Paola Montenegro, Ariele Batistti, Lizeth Contreras Choque, Juan Carlos Catari, Roger Tinta Sallico, and Hernan Guerra Trigo
-
 GRAVITAS is a Matlab graphic user interface and adjustment software developed by the Geodesy and Geodynamics group at the Division of Geodetic Science, The Ohio State University. It can be used to adjust relative gravity lines (surveyed with multiple relative gravimeters) and absolute gravity measurements, and perform a least-squares adjustment of large surface gravity networks.
 
 GRAVITAS has three main modules:
